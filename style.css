@@ -1,0 +1,15 @@
+/* Write some CSS below */
+/* style.css */
+font-family:Overpass;
+color: #404042;
+font-size: 18px;
+h1, h2, h3 {
+    font-family: Chivo;
+    color: #1A48E3;
+    font-weight: bold;
+    text-decoration: none;
+    transition: .3s;
+}
+a:hover {
+    color: #CE2FAE;
+    }
